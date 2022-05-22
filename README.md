@@ -27,7 +27,7 @@ Each module consists minimum two files: main.tf, vars.tf
 resourcegroup and networking modules consists of one extra file named output.tf
 
 Deployment
-Steps 
+Steps  
 Step 0 terraform init
 Step 1 terraform plan
 Step 2 terraform validate
