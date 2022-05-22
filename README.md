@@ -1,4 +1,4 @@
-# Terraform code to deploy three-tier architecture on azure
+# Terraform code to deploy three-tier Environment on azure
 Problem Statement
 A 3 tier environment is a common setup
 One virtual network tied in three subnets.
