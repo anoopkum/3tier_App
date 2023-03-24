@@ -2,7 +2,7 @@
 Problem Statement
 A 3 tier environment is a common setup
 One virtual network tied in three subnets.
-Each subnet will have one virtual machine.
+Each subnet will have one  virtual machines scalesets.
 First virtual machine -> allow inbound traffic from internet only.
 Second virtual machine -> entertain traffic from first virtual machine only and can reply the same virtual machine again.
 App can connect to database and database can connect to app but database cannot connect to web.
